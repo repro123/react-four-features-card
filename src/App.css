@@ -19,7 +19,6 @@ body {
 }
 main {
   max-width: 21.25rem;
-  min-height: 100vh;
   margin: auto;
 }
 .c-card-component {
