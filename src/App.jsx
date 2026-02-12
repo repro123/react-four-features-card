@@ -4,25 +4,25 @@ const data = [
   {
     title: "Supervisor",
     text: "Monitors activity to identify project roadblocks",
-    image: "/public/images/icon-supervisor.svg",
+    image: "/images/icon-supervisor.svg",
     id: 1,
   },
   {
     title: "Team Builder",
     text: "Scans our talent network to create the optimal team for your project",
-    image: "/public/images/icon-team-builder.svg",
+    image: "/images/icon-team-builder.svg",
     id: 2,
   },
   {
     title: "Karma",
     text: "Regularly evaluates our talent to ensure quality",
-    image: "/public/images/icon-karma.svg",
+    image: "/images/icon-karma.svg",
     id: 3,
   },
   {
     title: "Calculator",
     text: "Uses data from past projects to provide better delivery estimates",
-    image: "/public/images/icon-calculator.svg",
+    image: "/images/icon-calculator.svg",
     id: 4,
   },
 ];
